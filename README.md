@@ -2,7 +2,7 @@
 
 Piotr Artman <br>
 Final Year Bsc Student SETU <br>
-<img src='portrait.jfif' width='400'>
+<img src='/Project_1/pictures/portrait.jpg' width='400'>
 
 # Find more information about me here:
 * [GitHub](https://github.com/peterartman)
@@ -34,7 +34,7 @@ This project aims to determine price trends for gold bullion and create a machin
 **Infrastrucutre for data**
 <br>
 **APIs and libraries utlilised**<br>
-1. [nasdaqdatalink](https://data.nasdaq.com)
+* [nasdaqdatalink](https://data.nasdaq.com)
 <br>
 **Work plan**
 <br>
