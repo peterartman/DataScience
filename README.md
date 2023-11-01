@@ -36,16 +36,16 @@ This project aims to determine price trends for gold bullion and create a machin
 <br>
 **Work plan**
 <br>
-Work plan:    1. Download bullion gold prices from NASDAQ.    https://data.nasdaq.com          DONE
-              2. Download data from ECB                       https://data.ecb.europa.eu
-              3. Download data from FED                       https://fred.stlouisfed.org
-              4. Download data from OECD                      https://data.oecd.org
-              5. Download data from EU.                       https://data.europa.eu/en
-              6. Download data from Frankfurt Stock Exchange                  
-              7. Import data from NASDAQ into memory 
-                 and calculate moving average and use it to predict price of gold bullion.
-              8. Import remaining data into memory
-                 and use random forest algorithm to improve predictions. 
+Work plan:    1. Download bullion gold prices from NASDAQ.    https://data.nasdaq.com          DONE<br>
+              2. Download data from ECB                       https://data.ecb.europa.eu<br>
+              3. Download data from FED                       https://fred.stlouisfed.org<br>
+              4. Download data from OECD                      https://data.oecd.org<br>
+              5. Download data from EU.                       https://data.europa.eu/en<br>
+              6. Download data from Frankfurt Stock Exchange<br>
+              7. Import data from NASDAQ into memory<br>
+                 and calculate moving average and use it to predict price of gold bullion.<br>
+              8. Import remaining data into memory<br>
+                 and use random forest algorithm to improve predictions.<br>
                  <br>
                  <br>
 <!-- <br>
