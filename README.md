@@ -24,7 +24,7 @@ Final Year Bsc Student SETU <br>
 
 ## Predicting trends in price of gold bullion <br>
 <br>
-**Introduction
+**Introduction**
 <br>
 This project aims to determine price trends for gold bullion and create a machine learning model to predict these prices in the future
 <br>
@@ -35,6 +35,7 @@ This project aims to determine price trends for gold bullion and create a machin
 **APIs and libraries utlilised**
 <br>
 **Work plan**
+<br>
 <!-- <br>
 **Algorithms / ML models utilised**
 <br>
