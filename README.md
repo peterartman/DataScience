@@ -34,7 +34,7 @@ This project aims to determine price trends for gold bullion and create a machin
 **Infrastrucutre for data**
 <br>
 **APIs and libraries utlilised**<br>
-1. nasdaqdatalink<br>
+1. [nasdaqdatalink](https://data.nasdaq.com)
 <br>
 **Work plan**
 <br>
