@@ -26,13 +26,15 @@ Final Year Bsc Student SETU <br>
 <br>
 **Introduction**
 <br>
-This project aims to determine price trends for gold bullion and create a machine learning model to predict these prices in the future.
+This project aims to determine price trends for gold bullion and create a machine learning model to predict these prices in the future.<br>
 <br>
-**Data sets and data sources**
+**Data sets and data sources**<br>
+1. NASDAQ - price for gold bullion<br>
 <br>
 **Infrastrucutre for data**
 <br>
-**APIs and libraries utlilised**
+**APIs and libraries utlilised**<br>
+1. nasdaqdatalink<br>
 <br>
 **Work plan**
 <br>
@@ -60,10 +62,6 @@ Verification of the project - this section contains how the accuracy of the mode
 <br>
 Outcome/result/challenges - what were the results or outcomes of the project, what challenges were faced during the project, and how were they overcome.
 <br> -->
-** Sample of data downloaded from NASDAQ** 
-
-
-
 ** Visualisation of data downloaded **
 <br>
 <br>
