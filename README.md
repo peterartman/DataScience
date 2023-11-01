@@ -2,7 +2,7 @@
 
 Piotr Artman <br>
 Final Year Bsc Student SETU <br>
-<img src='/Project_1/pictures/portrait.jpg' width='400'>
+<img src='/Project_1/pictures/portrait.jpg' width='200'>
 
 # Find more information about me here:
 * [GitHub](https://github.com/peterartman)
