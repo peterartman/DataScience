@@ -22,7 +22,7 @@ Final Year Bsc Student SETU <br>
 
 # Projects:
 
-## Predicting trends in price of gold bullion <br>
+## Project 1: Predicting trends in price of gold bullion <br>
 <br>
 **Introduction**
 <br>
