@@ -36,7 +36,8 @@ This project aims to determine price trends for gold bullion and create a machin
 <br>
 **Work plan**
 <br>
-Work plan:    1. Download bullion gold prices from NASDAQ.    https://data.nasdaq.com          DONE<br>
+Work plan:<br>
+              1. Download bullion gold prices from NASDAQ.    https://data.nasdaq.com          DONE<br>
               2. Download data from ECB                       https://data.ecb.europa.eu<br>
               3. Download data from FED                       https://fred.stlouisfed.org<br>
               4. Download data from OECD                      https://data.oecd.org<br>
@@ -66,4 +67,4 @@ Outcome/result/challenges - what were the results or outcomes of the project, wh
 ** Visualisation of data downloaded **
 <br>
 <br>
-<img src='/pictures/LBMA.png' width='580'>
+<img src='Project1/pictures/LBMA.png' width='580'>
