@@ -29,7 +29,7 @@ Final Year Bsc Student SETU <br>
 This project aims to determine price trends for gold bullion and create a machine learning model to predict these prices in the future.<br>
 <br>
 **Data sets and data sources**<br>
-1. NASDAQ - price for gold bullion<br>
+1. NASDAQ - price for gold bullion from London Bullion Market Association (LBMA/GOLD)<br>
 <br>
 **Infrastrucutre for data**
 <br>
