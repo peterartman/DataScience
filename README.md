@@ -66,4 +66,8 @@ Outcome/result/challenges - what were the results or outcomes of the project, wh
 ** Visualisation of data downloaded **
 <br>
 <br>
-<img src='/Project_1/pictures/LBMA.png' width='580'>
+<img src='/Project_1/pictures/LBMA_gold.png' width='580'>
+<br>
+<br>
+<img src='/Project_1/pictures/LBMA_silver.png' width='580'>
+
