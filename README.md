@@ -53,19 +53,6 @@ Work plan:<br>
                  and use a random forest algorithm to improve predictions.<br>
                  <br>
                  <br>
-
-## Project 2: Analysis of Random Forest Algorithm and how to use this algorithm <br>
-<br>
-**Introduction**
-<br>
-This project aims to gather knowledge about Random Forest Algorithm <be>
-<br>
-**Work plan**
-<br>
-              1. Fork Jupyter notebook written by an industry expert. 
-              2. Analyse the algorithm, used libraries and how it is used in the practical task(s).
-              3. Write notes in that Jupyter notebook for better memorisation.
-  
 <br>
 <!-- <br>
 **Algorithms / ML models utilised**
@@ -85,4 +72,16 @@ Outcome/result/challenges - what were the results or outcomes of the project, wh
 <br>
 <br>
 <img src='/Project_1/pictures/LBMA_silver.png' width='580'>
+
+## Project 2: Analysis of Random Forest Algorithm and how to use this algorithm <br>
+<br>
+**Introduction**
+<br>
+This project aims to gather knowledge about Random Forest Algorithm <be>
+<br>
+**Work plan**
+<br>
+              1. Fork Jupyter notebook written by an industry expert. 
+              2. Analyse the algorithm, used libraries and how it is used in the practical task(s).
+              3. Write notes in that Jupyter notebook for better memorisation.
 
