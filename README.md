@@ -19,11 +19,11 @@ Final Year Bsc Student SETU <br>
 # Education:
 
 * BSc. H. in Computer Science
-* High Certyficate in Business
+* High Certificate in Business
 
 # Projects:
 
-## Project 1: Predicting trends in price of gold bullion <br>
+## Project 1: Predicting trends in the price of gold bullion <br>
 <br>
 **Introduction**
 <br>
@@ -34,7 +34,7 @@ This project aims to determine price trends for gold bullion and create a machin
 <br>
 **Infrastrucutre for data**
 <br>
-**APIs and libraries utlilised**<br>
+**APIs and libraries utilised**<br>
 * [nasdaqdatalink](https://data.nasdaq.com)
 <br>
 **Work plan**
@@ -45,14 +45,28 @@ Work plan:<br>
               3. Download data from ECB                       https://data.ecb.europa.eu<br>
               4. Download data from FED                       https://fred.stlouisfed.org<br>
               5. Download data from OECD                      https://data.oecd.org<br>
-              6. Download data from EU.                       https://data.europa.eu/en<br>
-              7. Download data from Frankfurt Stock Exchange<br>
+              6. Download data from the EU.                       https://data.europa.eu/en<br>
+              7. Download data from the Frankfurt Stock Exchange<br>
               8. Import downloaded data into memory<br>
-                 and calculate moving average and use it to predict price of gold bullion.<br>
+                 and calculate the moving average and use it to predict the price of gold bullion.<br>
               9. Import remaining data into memory<br>
-                 and use random forest algorithm to improve predictions.<br>
+                 and use a random forest algorithm to improve predictions.<br>
                  <br>
                  <br>
+
+## Project 2: Analysis of Random Forest Algorithm and how to use this algorithm <br>
+<br>
+**Introduction**
+<br>
+This project aims to gather knowledge about Random Forest Algorithm <be>
+<br>
+**Work plan**
+<br>
+              1. Fork Jupyter notebook written by an industry expert. 
+              2. Analyse the algorithm, used libraries and how it is used in the practical task(s).
+              3. Write notes in that Jupyter notebook for better memorisation.
+  
+<br>
 <!-- <br>
 **Algorithms / ML models utilised**
 <br>
