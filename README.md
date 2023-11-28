@@ -81,7 +81,7 @@ This project aims to gather knowledge about Random Forest Algorithm <be>
 <br>
 **Work plan**
 <br>
-              1. Fork Jupyter notebook written by an industry expert. 
-              2. Analyse the algorithm, used libraries and how it is used in the practical task(s).
-              3. Write notes in that Jupyter notebook for better memorisation.
+              1. Fork Jupyter notebook written by an industry expert. <br>
+              2. Analyse the algorithm, used libraries and how it is used in the practical task(s).<br>
+              3. Write notes in that Jupyter notebook for better memorisation.<br>
 
