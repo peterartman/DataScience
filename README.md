@@ -85,3 +85,6 @@ This project aims to gather knowledge about Random Forest Algorithm <be>
               2. Analyse the algorithm, used libraries and how it is used in the practical task(s).<br>
               3. Write notes in that Jupyter notebook for better memorisation.<br>
 
+GitHub with project: https://github.com/peterartman/RandomForestExercise<br>
+
+
