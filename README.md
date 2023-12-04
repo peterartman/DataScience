@@ -45,13 +45,12 @@ Work plan:<br>
               1. Download gold bullion prices from NASDAQ.    https://data.nasdaq.com          DONE<br>
               2. Download data from FRED                      https://fred.stlouisfed.org<br>             
               3. Download data from ECB                       https://data.ecb.europa.eu<br>
-              4. Download data from FED                       https://fred.stlouisfed.org<br>
-              5. Download data from OECD                      https://data.oecd.org<br>
-              6. Download data from the EU.                       https://data.europa.eu/en<br>
-              7. Download data from the Frankfurt Stock Exchange<br>
-              8. Import downloaded data into memory<br>
+              4. Download data from OECD                      https://data.oecd.org<br>
+              5. Download data from the EU.                       https://data.europa.eu/en<br>
+              6. Download data from the Frankfurt Stock Exchange<br>
+              7. Import downloaded data into memory<br>
                  and calculate the moving average and use it to predict the price of gold bullion.<br>
-              9. Import remaining data into memory<br>
+              8. Import remaining data into memory<br>
                  and use a random forest algorithm to improve predictions.<br>
                  <br>
                  <br>
