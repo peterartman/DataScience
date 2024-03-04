@@ -77,14 +77,6 @@ Outcome/result/challenges - what were the results or outcomes of the project, wh
 <br>
 <img src='/Project_1/pictures/EuroM3.png' width='580'>
 
-# Algorithms demonstration:
-
-## Naive Bayes Classification
-<br>
-<a href="/Semester2/Naive-Bayes.ipynb"></a>
-
-
-
 ## Project 2: Analysis of Random Forest Algorithm and how to use this algorithm <br>
 <br>
 **Introduction**
@@ -98,5 +90,15 @@ This project aims to gather knowledge about Random Forest Algorithm <be>
               3. Write notes in that Jupyter notebook for better memorisation.<br>
 
 GitHub with project: https://github.com/peterartman/RandomForestExercise<br>
+
+# Algorithms demonstration:
+
+## Naive Bayes Classification
+<br>
+<a href="https://github.com/peterartman/Semester2/Naive-Bayes.ipynb"></a>
+
+
+
+
 
 
