@@ -21,6 +21,7 @@ Final Year Bsc Student SETU <br>
 * BSc. H. in Computer Science
 * High Certyficate in Business
 
+
 # Projects:
 
 ## Project 1: Predicting trends in price of gold bullion <br>
@@ -71,4 +72,14 @@ Outcome/result/challenges - what were the results or outcomes of the project, wh
 <br>
 <br>
 <img src='/Project_1/pictures/LBMA_silver.png' width='580'>
+<br>
+<img src='/Project_1/pictures/EuroM3.png' width='580'>
+
+# Algorithms demonstration:
+
+## Naive Bayes Classification
+<br>
+<a href="/Semester2/Naive-Bayes.ipynb"></a>
+
+
 
