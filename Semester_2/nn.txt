@@ -1,0 +1,4 @@
+Notebooks about Neural Networks on Google CodeLab:
+
+https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/intro_to_neural_nets.ipynb
+
