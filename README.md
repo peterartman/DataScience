@@ -90,20 +90,18 @@ This project aims to gather knowledge about Random Forest Algorithm <be>
               3. Write notes in that Jupyter notebook for better memorisation.<br>
 
 GitHub with project: https://github.com/peterartman/RandomForestExercise/05_08_Random_Forests.ipynb<br> --> 
-# Portfolio - part 2
 
+# Portfolio - Part 2
 
-## Algorithms demonstration:
+## Algorithms Demonstration:
 
-## Naive Bayes Classification<br>
-<br>
-<a href="https://github.com/peterartman/Semester2/Naive-Bayes.ipynb"></a>
-<br>
-## Support Vector Machines<br>
-<br>
-<a href="https://github.com/peterartman/Semester2/Support-Vector-Machines.ipynb"></a>
-<br>
+### Naive Bayes Classification
 
+[Naive Bayes Classification Notebook](https://github.com/peterartman/Semester2/Naive-Bayes.ipynb)
+
+### Support Vector Machines
+
+[Support Vector Machines Notebook](https://github.com/peterartman/Semester2/Support-Vector-Machines.ipynb)
 
 
 
