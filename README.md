@@ -99,9 +99,9 @@ GitHub with project: https://github.com/peterartman/RandomForestExercise/05_08_R
 <br>
 <a href="https://github.com/peterartman/Semester2/Naive-Bayes.ipynb"></a>
 <br>
-## Naive Bayes Classification<br>
+## Support Vector Machines<br>
 <br>
-<a href="https://github.com/peterartman/Semester2/Naive-Bayes.ipynb"></a>
+<a href="https://github.com/peterartman/Semester2/Support-Vector-Machines.ipynb"></a>
 <br>
 
 
