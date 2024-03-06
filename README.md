@@ -22,13 +22,13 @@ Final Year BSc Student SETU <br>
 * High Certificate in Business
 
 
-# Projects:
+# Portfolio - part 1.
 
 ## Project 1: Predicting trends in the price of gold bullion <br>
 <br>
 GitHub with project: https://github.com/peterartman/DataScience/tree/main/Project_1 <br>
 <br>
-**Introduction**
+<!-- **Introduction**
 <br>
 This project aims to determine price trends for gold bullion and create a machine learning model to predict these prices in the future.<br>
 <br>
@@ -55,7 +55,7 @@ Work plan:<br>
                  and use a random forest algorithm to improve predictions.<br>
                  <br>
                  <br>
-<br>
+<br> -->
 <!-- <br>
 **Algorithms / ML models utilised**
 <br>
@@ -67,7 +67,7 @@ Verification of the project - this section contains how the accuracy of the mode
 <br>
 Outcome/result/challenges - what were the results or outcomes of the project, what challenges were faced during the project, and how were they overcome.
 <br> -->
-** Visualisation of data downloaded **
+<!-- ** Visualisation of data downloaded **
 <br>
 <br>
 <img src='/Project_1/pictures/LBMA_gold.png' width='580'>
@@ -77,7 +77,7 @@ Outcome/result/challenges - what were the results or outcomes of the project, wh
 <br>
 <img src='/Project_1/pictures/EuroM3.png' width='580'>
 
-## Project 2: Analysis of Random Forest Algorithm and how to use this algorithm <br>
+<!-- ## Project 2: Analysis of Random Forest Algorithm and how to use this algorithm <br>
 <br>
 **Introduction**
 <br>
@@ -89,8 +89,7 @@ This project aims to gather knowledge about Random Forest Algorithm <be>
               2. Analyse the algorithm, used libraries and how it is used in the practical task(s).<br>
               3. Write notes in that Jupyter notebook for better memorisation.<br>
 
-GitHub with project: https://github.com/peterartman/RandomForestExercise/05_08_Random_Forests.ipynb<br>
-
+GitHub with project: https://github.com/peterartman/RandomForestExercise/05_08_Random_Forests.ipynb<br> --> 
 # Algorithms demonstration:
 
 ## Naive Bayes Classification
