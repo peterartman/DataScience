@@ -3,7 +3,7 @@
 
 <img src='/Project_1/pictures/portrait.jpg' width='200'>
 Piotr Artman <br>
-Final Year Bsc Student SETU <br>
+Final Year BSc Student SETU <br>
 
 # Find more information about me here:
 * [GitHub](https://github.com/peterartman)
@@ -11,7 +11,7 @@ Final Year Bsc Student SETU <br>
 
 # Technical expertise:
 
-* programming languages - Java, C++, Python, HTML, CSS, JavaScript, Git
+* programming languages - Java, C++, Python, HTML, CSS, JavaScript
 * database/storage - local: MySQL, MongoDB,
 * database/remote - (Amazon Web Services, Google Cloud)
 * UI/UX design - draw.io, Figma
