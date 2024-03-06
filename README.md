@@ -96,13 +96,13 @@ GitHub with project: https://github.com/peterartman/RandomForestExercise/05_08_R
 ## Algorithms demonstration:
 
 ## Naive Bayes Classification<br>
-<br>
-<a href="https://github.com/peterartman/Semester2/Naive-Bayes.ipynb"></a>
-<br>
+</br>
+<a href="https://github.com/peterartman/Semester2/Naive-Bayes.ipynb"></a></br>
+</br>
 ## Support Vector Machines<br>
-<br>
-<a href="https://github.com/peterartman/Semester2/Support-Vector-Machines.ipynb"></a>
-<br>
+</br>
+<a href="https://github.com/peterartman/Semester2/Support-Vector-Machines.ipynb"></a></br>
+</br>
 
 
 
