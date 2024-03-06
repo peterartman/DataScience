@@ -100,6 +100,9 @@ GitHub with project: https://github.com/peterartman/RandomForestExercise/05_08_R
 <a href="https://github.com/peterartman/Semester2/Naive-Bayes.ipynb"></a>
 <br>
 ## Naive Bayes Classification<br>
+<br>
+<a href="https://github.com/peterartman/Semester2/Naive-Bayes.ipynb"></a>
+<br>
 
 
 
