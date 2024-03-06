@@ -22,7 +22,7 @@ Final Year BSc Student SETU <br>
 * High Certificate in Business
 
 
-# Portfolio - part 1.
+# Portfolio - part 1
 
 ## Project 1: Predicting trends in the price of gold bullion <br>
 <br>
@@ -90,11 +90,16 @@ This project aims to gather knowledge about Random Forest Algorithm <be>
               3. Write notes in that Jupyter notebook for better memorisation.<br>
 
 GitHub with project: https://github.com/peterartman/RandomForestExercise/05_08_Random_Forests.ipynb<br> --> 
-# Algorithms demonstration:
+# Portfolio - part 2
 
-## Naive Bayes Classification
+
+## Algorithms demonstration:
+
+## Naive Bayes Classification<br>
 <br>
 <a href="https://github.com/peterartman/Semester2/Naive-Bayes.ipynb"></a>
+<br>
+## Naive Bayes Classification<br>
 
 
 
