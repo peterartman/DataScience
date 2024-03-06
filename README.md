@@ -97,11 +97,11 @@ GitHub with project: https://github.com/peterartman/RandomForestExercise/05_08_R
 
 ### Naive Bayes Classification
 
-[Naive Bayes Classification Notebook](https://github.com/peterartman/Semester2/Naive-Bayes.ipynb)
+[Naive Bayes Classification Notebook](https://github.com/peterartman/DataScience/blob/main/Semester_2/Naive-Bayes.ipynb)
 
-### Support Vector Machines
+### Support Vector Machines (Work in progress)
 
-[Support Vector Machines Notebook](https://github.com/peterartman/Semester2/Support-Vector-Machines.ipynb)
+[Support Vector Machines Notebook](https://github.com/peterartman/DataScience/blob/main/Semester_2/Support-Vector-Machines.ipynb)
 
 
 
