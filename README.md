@@ -24,10 +24,9 @@ Final Year BSc Student SETU <br>
 
 # Portfolio - part 1
 
-## Project 1: Predicting trends in the price of gold bullion <br>
-<br>
-GitHub with project: https://github.com/peterartman/DataScience/tree/main/Project_1 <br>
-<br>
+## Project 1: 
+[Predicting trends in the price of gold bullion](https://github.com/peterartman/DataScience/tree/main/Project_1)
+
 <!-- **Introduction**
 <br>
 This project aims to determine price trends for gold bullion and create a machine learning model to predict these prices in the future.<br>
