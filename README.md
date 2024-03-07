@@ -102,6 +102,8 @@ GitHub with project: https://github.com/peterartman/RandomForestExercise/05_08_R
 
 [Support Vector Machines Notebook](https://github.com/peterartman/DataScience/blob/main/Semester_2/Support-Vector-Machines.ipynb)
 
+Work until deadline on March 6, 2024
+
 
 
 
